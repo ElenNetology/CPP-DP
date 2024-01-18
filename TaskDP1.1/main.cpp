@@ -1,8 +1,8 @@
 ﻿// TaskDP1.1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
 #include "sql_query_builder.h"
+#include <iostream>
 
 int main()
 {
